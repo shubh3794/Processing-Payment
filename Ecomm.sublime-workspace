@@ -1,0 +1,465 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"profileErrorFn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gateway/Gateway/urls.py",
+			"settings":
+			{
+				"buffer_size": 1062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gateway/Profiles/views.py",
+			"settings":
+			{
+				"buffer_size": 147,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gateway/Gateway/settings.py",
+			"settings":
+			{
+				"buffer_size": 3012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 20,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gateway/Profiles/admin.py",
+			"settings":
+			{
+				"buffer_size": 213,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gateway/Profiles/models.py",
+			"settings":
+			{
+				"buffer_size": 240,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shubham/Desktop/Ecomm/Gateway",
+		"/home/shubham/Desktop/Ecomm/Gateway/Gateway",
+		"/home/shubham/Desktop/Ecomm/Gateway/Profiles",
+		"/home/shubham/Desktop/Ecomm/static"
+	],
+	"file_history":
+	[
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/thinkster_django_angular_boilerplate/urls.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/templates/authentication/register.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/authentication/permissions.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/authentication/serializers.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/authentication/views.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/authentication/models.py",
+		"/home/shubham/Desktop/rango/tango/rango/forms.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/authentication/tests.py",
+		"/home/shubham/Desktop/pyscr/Balanced-tree.py",
+		"/home/shubham/Desktop/sass/try.scss",
+		"/home/shubham/Desktop/gulp-django/package.json",
+		"/home/shubham/Desktop/gulp-django/static/bower.json",
+		"/home/shubham/Desktop/gulp-django/.gitignore",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/thinkster_django_angular_boilerplate/settings.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/gulpfile.js",
+		"/home/shubham/Desktop/mytodo/app/index.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/profiles/controllers/profile-settings.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/posts/views.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/posts/services/posts.service.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/profiles/services/profile.service.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/thinkster.routes.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/templates/javascripts.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/templates/profiles/profile.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/profiles/controllers/profile.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/templates/profiles/settings.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/profiles/profile.module.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/layout/layout.module.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/layout/controllers/index.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/thinkster.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/posts/models.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/profiles/profiles.moduule.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/templates/layout/index.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/posts/controllers/new-post.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/posts/posts.module.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/posts/controllers/posts.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/authentication/services/services.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/templates/posts/new-post.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/stylesheets/styles.css",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/templates/posts/posts.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/templates/posts/post.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/posts/directives/post.directive.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/posts/directives/posts.directive.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/templates/index.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/posts/permissions.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/posts/serializers.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/authentication/controllers/login.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/utils/utils.module.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/utils/snackbar.service.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/templates/javascripts.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/authentication/authentication.module.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/authentication/controllers/register.controller.js",
+		"/media/shubham/008CEA028CE9F1D8/Users/swati/Desktop/Shubham/Stroll-work/skyfall/WebServer/root/src/main/webapp/js/angular-app.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/templates/stylesheets.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/layout/controllers/navbar.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/authentication/authentication.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/services.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/authentication.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/templates/login.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/authentication/migrations/permissions.py",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/templates/register.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/templates/navbar.html",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/layout/navbar.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/layouts/navbar.controller.js",
+		"/home/shubham/Desktop/thinker/thinkster-django-angular-boilerplate/static/javascripts/thinkster.config.js",
+		"/home/shubham/Desktop/REST/tutorial/snippets/urls.py",
+		"/home/shubham/Desktop/REST/tutorial/snippets/views.py",
+		"/home/shubham/Desktop/REST/tutorial/snippets/serializers.py",
+		"/home/shubham/Desktop/REST/tutorial/snippets/models.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"model",
+			"AUTH_USER_MODEL",
+			"MODELS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gateway/Gateway/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1055,
+								1055
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Gateway/Profiles/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gateway/Gateway/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2851,
+								2851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1413.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Gateway/Profiles/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Gateway/Profiles/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Ecomm.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
